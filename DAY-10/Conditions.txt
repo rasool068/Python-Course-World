@@ -1,0 +1,35 @@
+Conditional Statements
+-----------------------
+1. simpleif
+2. if else
+3. elif ladder
+4. nested if 
+-----------------------
+SIMPLEIF
+if cond:
+    #stmts
+-----------------------
+IF ELSE
+if cond:
+    #stmts t
+else:
+    #stmts f
+-----------------------
+ELIF LADDER
+if cond:
+    #stmts
+elif cond2:
+    #stmts
+else cond3:
+    #stmts
+-----------------------
+NESTED IF
+if cond:
+if cond1:
+else:
+cond2:
+    #stmts
+elif:
+cond3:
+    #stmts
+-----------------------
